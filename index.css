@@ -20,3 +20,21 @@ top: -514px;
 #landing{
     background-image: url("../Mflux/assets/bg.jpg");
 }
+.div1{
+    position: relative;
+}
+#services .div1 h1{
+
+    position: absolute;
+width: 530px;
+height: 145px;
+left: 72px;
+top: 29px;
+font-weight: 900;
+font-size: 107.325px;
+line-height: 145px;
+background-image: url("https://s3-alpha-sig.figma.com/img/f7c1/33fe/b2ac1f47da134d3247e1e4a045d8e70e?Expires=1675036800&Signature=SdF1WciPDUGj6Tqci-GouqTXAjJ0VyJ3BneTUl3L7DOctBNNG0l1Sdcz9jRsw2bptUpI0CaBqno1yyqPOIbN7sNt7khUDARtEJy-JJ25mkliAj~d7kisrEbL5jL5~6XZ0TnW74x2Bkav7iAqUnM21joF0QVWuYGBROYgx8ypmAuyzUMqHLA7984LYkuwT2qZANgSYZKc5iYt~ehvM-v7c-hGK4QahDrCUlkCC~56ELeH8mZGS4JPLzpuKzhJp8SA1oe-9SpKaE6TxCBAOcjIDATRxBOYu9xDPt~7RWU16RJ-uwYoBtkIa-WtP8MJwpHI0NTAPjmPlXwvMSfVsdVA-w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+text-align: center;
+
+opacity: 0.5;
+}
