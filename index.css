@@ -44,3 +44,18 @@ h4{
     font-size: 34px;
     color:#8c8c8c;
 }
+.div2{
+width: 3840px;
+height: 1012px;
+left: -1160px;
+top: 427px;
+background-image: url("https://s3-alpha-sig.figma.com/img/f7c1/33fe/b2ac1f47da134d3247e1e4a045d8e70e?Expires=1675036800&Signature=SdF1WciPDUGj6Tqci-GouqTXAjJ0VyJ3BneTUl3L7DOctBNNG0l1Sdcz9jRsw2bptUpI0CaBqno1yyqPOIbN7sNt7khUDARtEJy-JJ25mkliAj~d7kisrEbL5jL5~6XZ0TnW74x2Bkav7iAqUnM21joF0QVWuYGBROYgx8ypmAuyzUMqHLA7984LYkuwT2qZANgSYZKc5iYt~ehvM-v7c-hGK4QahDrCUlkCC~56ELeH8mZGS4JPLzpuKzhJp8SA1oe-9SpKaE6TxCBAOcjIDATRxBOYu9xDPt~7RWU16RJ-uwYoBtkIa-WtP8MJwpHI0NTAPjmPlXwvMSfVsdVA-w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+#contact{
+    position: relative;
+}
+.form{
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: translateY(-5%);
+}
